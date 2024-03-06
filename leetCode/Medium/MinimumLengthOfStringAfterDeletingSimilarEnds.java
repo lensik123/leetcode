@@ -40,6 +40,8 @@ public class MinimumLengthOfStringAfterDeletingSimilarEnds {
                 begin++;
             }
 
+
+            //da
             // Delete consecutive occurrences of c from suffix
             while (end > begin && s.charAt(end) == c) {
                 end--;
