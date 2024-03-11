@@ -1,9 +1,8 @@
 package leetCode.Easy;
 
-import java.util.ArrayList;
+
 import java.util.HashSet;
 import java.util.Set;
-import java.util.TreeSet;
 
 public class MinimumCommonValue {
     public static void main(String[] args) {
@@ -22,6 +21,8 @@ public class MinimumCommonValue {
                 return i;
             }
         }
+
+        
         return -1;
     }
 }
