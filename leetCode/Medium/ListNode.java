@@ -1,7 +1,6 @@
 package leetCode.Medium;
 
-import java.util.HashMap;
-import java.util.TreeSet;
+
 
 public class ListNode {
     int val;
@@ -19,7 +18,6 @@ public class ListNode {
         this.next = next;
     }
 
-    TreeSet dada = new TreeSet();
 
 
 }
