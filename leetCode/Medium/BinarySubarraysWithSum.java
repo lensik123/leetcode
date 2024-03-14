@@ -27,7 +27,7 @@ public class BinarySubarraysWithSum {
 
     public static void main(String[] args) {
 
-        numSubarraysWithSum(new int[]{1, 0, 1, 0, 1}, 2);
+        System.out.println(numSubarraysWithSum(new int[]{1,2,3,2,1}, 5));
 
     }
 
