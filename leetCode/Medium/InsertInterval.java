@@ -1,6 +1,7 @@
 package leetCode.Medium;
 
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.LinkedList;
 
 public class InsertInterval {
@@ -21,7 +22,7 @@ public class InsertInterval {
             mergedIntervals[i] = intervals[i];
         }
         mergedIntervals[intervals.length] = newInterval;
-        Arrays.sort(mergedIntervals,(a, b)->Integer.compare(a[0],b[0]));
+        Arrays.sort(mergedIntervals, Comparator.comparingInt(a -> a[0]));
 
         LinkedList<int[]> mergedListIntervals = new LinkedList<>();
 
