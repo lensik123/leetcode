@@ -2,6 +2,7 @@ package leetCode.Medium;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
+import java.util.List;
 
 public class ReverseLinkedList {
     public static void main(String[] args) {
@@ -10,24 +11,21 @@ public class ReverseLinkedList {
     }
 
     public static ListNode reverseList(ListNode head) {
-        if (head == null) return head;
-        Deque<Integer> deque = new ArrayDeque<>();
-        ListNode reversedList = head;
+        if(head == null || head.next == null){
+            return head;
+        }
+        ListNode prev = null;
+        ListNode current = head;
+        ListNode next = null;
 
-        while (head != null) {
-            if (head.next == null) {
-                reversedList = head;
-            }
-            deque.add(head.val);
-            head = head.next;
 
+        while (current != null){
+            next = current.next;
+            current.next = prev;
+            prev = current;
+            current = next;
         }
 
-        while (deque.getLast() != null) {
-            reversedList.next = new ListNode(deque.pollLast());
-            reversedList = reversedList.next;
-        }
-
-        return reversedList;
+        return prev;
     }
 }
