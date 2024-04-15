@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d387e3b2-393c-4353-830f-4484bcb2717c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Easy/DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Easy/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Easy/MaximumOddBinaryNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Easy/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Easy/SquaresofaSorterArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Easy/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Medium/BagOfTokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Medium/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Medium/RemoveNthNodeFromEndofList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Medium/RemoveNthNodeFromListSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Easy/DiameterOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Easy/IsPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Easy/MaximumOddBinaryNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Easy/RomanToInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Easy/SquaresofaSorterArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Easy/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Medium/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Medium/RemoveNthNodeFromEndofList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Medium/RemoveNthNodeFromListSecond.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2bOdNSGmtc2OhqNipHsgzbdhrwm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Test/JavaMemory",
+    "onboarding.tips.debug.path": "D:/Test/JavaMemory/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d387e3b2-393c-4353-830f-4484bcb2717c" name="Changes" comment="" />
+      <created>1706090021053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706090021053</updated>
+    </task>
+    <servers />
+  </component>
+</project>

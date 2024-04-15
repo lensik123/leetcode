@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c55c55e1-662f-4dfa-89ad-44d6e8959841" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbEvolution/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbEvolution/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbEvolution/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbEvolution/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbEvolution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbEvolution/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbEvolution/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbEvolution/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HazelCast2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HazelCast2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HazelCast2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HazelCast2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HazelCast2/.idea/runConfigurations/ServerNode.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HazelCast2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HazelCast2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HazelCast2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HazelCast2/src/main/java/org/example/ServerNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HazelCast2/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/JavaMemory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoDb/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoDb/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoDb/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoDb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoDb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoDb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoDb/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoDb/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoDb/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MongoDb/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mongodbdb/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mongodbdb/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mongodbdb/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mongodbdb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mongodbdb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mongodbdb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mongodbdb/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mongodbdb/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Redis/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Easy/DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Easy/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Easy/MaximumOddBinaryNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Easy/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Easy/SquaresofaSorterArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Easy/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Medium/BagOfTokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Medium/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Medium/RemoveNthNodeFromEndofList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/leetCode/Medium/RemoveNthNodeFromListSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Easy/DiameterOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Easy/IsPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Easy/MaximumOddBinaryNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Easy/RomanToInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Easy/SquaresofaSorterArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Easy/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Medium/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Medium/RemoveNthNodeFromEndofList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode/out/production/leetCode/leetCode/Medium/RemoveNthNodeFromListSecond.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../text2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2e8CPDl1z6Tbzp0FKwuOIvcW1gb" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Test/org.example.test",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c55c55e1-662f-4dfa-89ad-44d6e8959841" name="Changes" comment="" />
+      <created>1711276797265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711276797265</updated>
+    </task>
+    <servers />
+  </component>
+</project>
